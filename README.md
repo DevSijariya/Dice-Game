@@ -1,5 +1,5 @@
 ### project Description
-    I built a dice game using React.js where players select a number and roll a dice. If the rolled number matches the selected number, the player's score increases by that number. If it doesn't match, 2 points are deducted from the score, adding an element of risk and strategy to the game.
+I built a dice game using React.js where players select a number and roll a dice. If the rolled number matches the selected number, the player's score increases by that number. If it doesn't match, 2 points are deducted from the score, adding an element of risk and strategy to the game.
 
 # Getting Started with Create React App
 
