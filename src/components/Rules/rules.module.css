@@ -1,0 +1,21 @@
+.rules{
+    width: 700px;
+    height: 200px;
+    background-color:antiquewhite;
+    margin-top: 34px;
+    display: flex;
+    flex-direction: column;
+  }
+  .rules h1{
+    font-size: 20px;
+    margin-top:34px;
+    margin-bottom:5px ;
+  }
+  .rules p{
+    margin-top:5px;
+    font-size:14px;
+    font-weight: 500;
+  }
+  .rules h1,p{
+    margin-left: 20px;
+  }
